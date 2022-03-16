@@ -1,0 +1,5 @@
+append # Agrega elemento al final de la lista
+pop # Elimina un elemento al final de la lista
+sort # Orderna elementos ya sea numericos o strings
+extend # Permite unir 2 listas
+len # Devuleve un valor entero, representa la cantidad de elementos en una lista
